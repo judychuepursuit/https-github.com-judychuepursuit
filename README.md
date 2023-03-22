@@ -1,7 +1,7 @@
 # https-github.com-judychuepursuit
 My personal repository
 
-:school: enrolled as a Full-stack web Developer @Pusuit N&W. Focusing is on Front-end web design.
+:school: enrolled as a Full-stack web Developer @Pusuit N&W. Focusing is on Front-end web design.\n
 Also learning: html, css and React.
 :bulb: My hope and desire is to combine my knowledge/expertise as a web developer and my love for animals.
 Ask me about: My 30 plus years in the creative industry inspired me to learn coding.
