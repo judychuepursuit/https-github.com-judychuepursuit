@@ -1,18 +1,18 @@
 # https-github.com-judychuepursuit
 
 
--:school: enrolled as a Full-stack web Developer @Pusuit N&W. Focusing is on Front-end web design.
+🏫 enrolled as a Full-stack web Developer @Pusuit N&W. Focusing is on Front-end web design.
 
-Also learning: html, css and React.
+💻 learning: html, css and React.
 
-:bulb: My hope and desire is to combine my knowledge/expertise as a web developer and my love for animals.
+💡 My hope and aspirations in becoming a web developer is to combine my expertise/knowledge and my love for all animals.
 
-Ask me about: My 30 plus years in the creative industry inspired me to learn coding.
+🎨 me about: My 30 plus years in the creative industry inspired me to learn coding.
 
-:heart: Fun-facts: :ramen: I love to cook, eat and enjoy family and great company, I love all things to do with crafting, sewing, customize Tote bags for special events and happenings. painting, drawing and taking care of my 2 newly adopted kittens (brother and sister) I have not eatten meat in over 20 years. I :heart: all animals :cat:
+💟 Fun-facts: :ramen: I love to cook, eat and enjoy family and great company, I love all things to do with crafting, painting, drawing, I also love to exercise. I have not had meat in over 20 years. I :heart: all animals :cat: and am blessed to have 2 newly adopted kittens (brother -kai and sister- mei li) 
 
-:e-mail: me @judy@pursuit.org or chue.judy@gmail.com
+📧 me @judy@pursuit.org or chue.judy@gmail.com
 
-:telephone_receiver: 917-438-8652
+📞 917-438-8652
 
-:link: https://www.judychue.com/
+🔗 https://www.judychue.com/
