@@ -1,4 +1,4 @@
-# https-github.com-judychuepursuit
+# Hello- Welcome to my git-hub page!
 
 
 🏫 enrolled as a Full-stack Web Developer @Pusuit N&W. Focusing is on Front-end web design.
