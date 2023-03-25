@@ -7,9 +7,9 @@
 
 💡 My hope and aspirations in becoming a web developer is to combine my expertise/knowledge and my love for all animals.
 
-🎨 About me: I was insoired to learn coding after being in the creative industry for over 30 
+🎨 About me: I was inspired to learn coding after being in the creative industry for over 30 years. 
 
-💟 Fun-facts: I love to cook, eat 🍜 and enjoy family and great company 👪, I love all things to do with crafting, painting, drawing, I also love to exercise. I have not had meat in over 20 years. I :heart: all animals :cat: and am blessed to have 2 newly adopted kittens (brother -kai and sister- mei li) 
+💟 Fun-facts: I love to cook & eat 🍜, I enjoy family and great company 👪, I love all things to do with crafting, painting, drawing, I also love to exercise. I have not had meat in over 20 years. I ♥️ all animals :cat: and am blessed to have 2 newly adopted kittens (brother -kai and sister- mei li) 
 
 📧 me @judy@pursuit.org or chue.judy@gmail.com
 
