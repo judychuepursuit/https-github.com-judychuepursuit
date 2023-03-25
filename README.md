@@ -1,9 +1,9 @@
-# Hello- Welcome to my git-hub page!
+# Hello, and Welcome to my git-hub page!
 
 
-🏫 Enrolled as a Full-stack Web Developer @Pusuit N&W. Focusing is on Front-end web design.
+🏫 Enrolled as a Full-stack Web Developer @Pusuit N&W. Focusing on Front-end web design.
 
-💻 Learning: html, css and React.
+💻 Learning: javascript, html, css and React.
 
 💡 My hope and aspirations in becoming a web developer is to combine my expertise/knowledge and my love for all animals.
 
