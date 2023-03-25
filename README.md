@@ -11,7 +11,7 @@
 
 💟 Fun-facts: I love to cook & eat 🍜, I enjoy family and great company 👪, I love all things to do with crafting, painting, drawing, I also love to exercise. I have not had meat in over 20 years. I ♥️ all animals :cat: and am blessed to have 2 newly adopted kittens (brother -kai and sister- mei li) 
 
-📧 me @judy@pursuit.org or chue.judy@gmail.com
+📧 me @judychue@pursuit.org or chue.judy@gmail.com
 
 📞 917-438-8652
 
