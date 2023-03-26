@@ -18,7 +18,7 @@
 🔗 https://www.judychue.com/
 
 LAMGUAGES:
-javascript, css, html, react, api, node.js, adobe ps, adobe, ai, adobe ind, word, excel and ppt.
+javascript, css, html, react, node.js, postman, adobe ps, ai, ind, MS word, excel and ppt.
 
 <!-- <img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"><img height="30"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
 <img height="30"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascriptjs/javascriptjs.png">
