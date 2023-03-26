@@ -17,4 +17,4 @@
 
 🔗 https://www.judychue.com/
 
-Endpoint: api/top-langs?username=anuraghazra
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><img height=50 
