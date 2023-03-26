@@ -23,3 +23,16 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+{
+  "upl_key": "239ec8a4-163e-4792-83b6-3f6d96911757",
+  "upl_date_add": "2020-10-31T15:29:18.915Z",
+  "upl_status": "PENDING",
+  "upl_filename": "javascript.svg",
+  "upl_content_type": "image/svg+xml",
+  "upl_properties": {
+    "comment": "Yellow JavaScript logo",
+    "original_filename": "javascript.svg",
+    "original_content_type": "image/svg+xml"
+  },
+  "data_size": 886
+}
