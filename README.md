@@ -16,3 +16,5 @@
 📞 917-438-8652
 
 🔗 https://www.judychue.com/
+
+Endpoint: api/top-langs?username=anuraghazra
