@@ -20,7 +20,7 @@
 
 📞 917-438-8652
 
-🔗 https://www.judychue.com/
+🔗 https://www.judychue.com/     this site is pw protected, please feel free to email to view my portfolio.
 
 <h3 align="left">Languages and Tools:</h3>
 Additional Applications include:
